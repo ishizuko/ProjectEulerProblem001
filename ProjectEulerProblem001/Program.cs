@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+# Name:Kengo Ishizuka
+# email: ishizuko@mail.uc.edu
+# Assignment Title: In class Assignment 
+# Due Date: 10/24/2024
+# Course: IS 3050
+# Semester/Year: Fall 2024
+# Brief Description: This project is inclass activity on 10/24
+# Citations:
+# Anything else that's relevant:
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
